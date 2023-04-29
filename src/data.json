@@ -1,0 +1,34 @@
+{
+    "greetings": [
+        "Hello, how can I help you today?",
+        "Hi, what brings you here?",
+        "Welcome to our doctor consult site. What can I assist you with?"
+    ],
+    "questions": [
+        {
+            "question": "What is your name?",
+            "answer": "My name is Diacom Chatbot."
+        },
+        {
+            "question": "How can I make an appointment?",
+            "answer": "You can make an appointment by calling our office at 555-1234 or using our online appointment scheduling system on our website."
+        },
+        {
+            "question": "What are your office hours?",
+            "answer": "Our office hours are Monday to Friday, 9am to 5pm. We are closed on weekends and holidays."
+        },
+        {
+            "question": "What insurances do you accept?",
+            "answer": "We accept most major insurance plans. Please check with your insurance provider to confirm coverage."
+        },
+        {
+            "question": "What should I bring to my appointment?",
+            "answer": "Please bring your insurance card, photo ID, and any relevant medical records or test results to your appointment."
+        }
+    ],
+    "farewells": [
+        "Thank you for contacting us.",
+        "Have a great day!",
+        "Take care."
+    ]
+}
