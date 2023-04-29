@@ -80,7 +80,7 @@ function Chatbot() {
               className="Close"
             />
 
-            <h1>Diacom Chatbot</h1>
+            <h1>Admission Enquiry Chatbot</h1>
           </div>
           <div className="chatbot-messages" id="chat-container">
             {messages.map((message, index) => (
